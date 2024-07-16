@@ -81,7 +81,7 @@ if iniciar_edicao or 'editando' in st.session_state:
             forma_pagamento_ed
         ]
         caminho_datasets = st.session_state['caminho_datasets']
-        df_vendas.to_csv(caminho_datasets / 'vendas.csv', decimal=',', sep=';', index=False)
+        df_vendas.to_csv(caminho_datasets / 'vendas.csv', decimal=',', sep=';')
         st.session_state['dados']['df_vendas'] = df_vendas
         st.session_state.editando = False
 
