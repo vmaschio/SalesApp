@@ -1,7 +1,7 @@
 data;id_venda;filial;vendedor;produto;cliente_nome;cliente_genero;forma_pagamento
 2023-02-09 12:54:50.911871;0;São Paulo;Cassia Moraes;Tenis Fila;Albert Wilson;masculino;credito
 2023-02-09 14:41:42.048871;1;Canoas;Carlos Henrique;Tenis Adidas;Elizabeth Wilbanks;feminino;credito
-2023-02-09 15:28:51.973871;2;São Paulo;Cassia Moraes;Tenis Fila;Clarence Morris;masculino;credito
+2023-02-09 15:28:51.973871;2;Porto Alegre;Rodrigo Tadewald;Tenis Fila;Clarence Morris;masculino;credito
 2023-02-09 16:33:49.616882;3;Caxias do Sul;Mateus Kienzle;Tenis Nike;Royce Deforest;masculino;credito
 2023-02-09 18:12:40.240871;4;Lajeado;Juliano Faccioni;Tenis NB;Johnnie Gilderman;feminino;boleto
 2023-02-10 07:17:42.081872;5;São Paulo;Claudio Bueno;Tenis Adidas;Ross Maldonado;masculino;credito
