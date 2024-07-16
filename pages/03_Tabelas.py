@@ -17,7 +17,7 @@ def mostra_tabela_filiais():
 
 def mostra_tabela_vendas():
     st.sidebar.divider()
-    st.sidebar('### Filtrar tabela')
+    st.sidebar.markdown('### Filtrar tabela')
     colunas_selecionadas = st.sidebar.multiselect('Selecione as colunas da tabela:',
                                                   list(df_vendas.columns),
                                                   list(df_vendas.columns))
