@@ -13,3 +13,5 @@ def leitura_de_dados():
             'df_produtos': df_produtos}
         st.session_state['caminho_datasets'] = path_dataset
         st.session_state['dados'] = dados
+
+comissao = 0.08
